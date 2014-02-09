@@ -1,5 +1,5 @@
-Qty,Value,        Device,        Parts,Description,MANUFACTURER,MAN_PART_NO,       PRICE_1,PRICE_50,URL,                                                                                                                   VENDOR,
-1,  1.0uF,        CAPACITOR-0402,C1,  Capacitor, Murata,      GRM155R60J105ME19D,0.10000,0.02220, http://www.digikey.com/product-detail/en/GRM155R60J105ME19D/490-1319-1-ND/587924,                                      Digikey
-1,  2kOhm,        RESISTOR-0402, R2,   Resistor,   Stackpole,   RMCF0402FT2K00,    0.04,   0.0138,  http://www.digikey.com/product-detail/en/RMCF0402FT2K00/RMCF0402FT2K00CT-ND/1942922,                                   Digikey
-1,  10kOhm,       RESISTOR-0402, R1,   Resistor,   Rohm,        MCR01MRTJ103,      0.04,   0.0138,  http://www.digikey.com/product-detail/en/MCR01MRTJ103/RHM10KCECT-ND/2796445,                                           Digikey
-1,  OSRAM-SFH7741,OSRAM-SFH7741, U$1,              Osram,       SFH,7741-Z,        1.63,   1.358,   http://www.digikey.com/product-detail/en/SFH%207741-Z/475-2663-1-ND/1893865,Digikey
+Qty,Value,Device,Parts,Description,MANUFACTURER,MAN_PART_NO,PRICE_1,PRICE_50,URL,VENDOR
+1,1.0uF,CAPACITOR-0402,C1,Capacitor,Murata,GRM155R60J105ME19D,0.10000,0.02220,http://www.digikey.com/product-detail/en/GRM155R60J105ME19D/490-1319-1-ND/587924,Digikey
+1,2kOhm,RESISTOR-0402,R2,Resistor,Stackpole,RMCF0402FT2K00,0.04,0.0138,http://www.digikey.com/product-detail/en/RMCF0402FT2K00/RMCF0402FT2K00CT-ND/1942922,Digikey
+1,10kOhm,RESISTOR-0402,R1,Resistor,Rohm,MCR01MRTJ103,0.04,0.0138,http://www.digikey.com/product-detail/en/MCR01MRTJ103/RHM10KCECT-ND/2796445,Digikey
+1,OSRAM-SFH7741,OSRAM-SFH7741,U$1,Osram,SFH,7741-Z,1.63,1.358,http://www.digikey.com/product-detail/en/SFH%207741-Z/475-2663-1-ND/1893865,Digikey
