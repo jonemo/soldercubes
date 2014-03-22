@@ -7,6 +7,8 @@ The proximity sensor was a late addition to the module design and as such isn't 
 
 ### File Descriptions
 
- * `ProximitySensor.sch` EagleCAD schematic file, created using EagleCAD version 5.12
- * `ProximitySensor.brd` EagleCAD board layout file, created using EagleCAD version 5.12
+ * `ProximitySensor.sch` EagleCAD schematic file
+ * `ProximitySensor.brd` EagleCAD board layout file
  * `ProximitySensor BOM.csv` Bill of materials with part numbers and Digikey links
+
+The `.sch` and `.brd` design files were created with EagleCAD version 5.12. EagleCAD is available for free at http://www.cadsoftusa.com/download-eagle/freeware/?language=en

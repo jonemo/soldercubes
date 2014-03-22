@@ -5,5 +5,7 @@ Each Soldercube module, irrespective of module type, contains one main controlle
 
 ### File Descriptions
 
- * `MainControllerBoardv2.sch` EagleCAD schematic file, created using EagleCAD version 5.12
- * `MainControllerBoardv2.brd` EagleCAD board layout file, created using EagleCAD version 5.12
+ * `MainControllerBoardv2.sch` EagleCAD schematic file
+ * `MainControllerBoardv2.brd` EagleCAD board layout file
+
+The `.sch` and `.brd` design files were created with EagleCAD version 5.12. EagleCAD is available for free at http://www.cadsoftusa.com/download-eagle/freeware/?language=en

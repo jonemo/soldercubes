@@ -13,6 +13,8 @@ The printed circuit board (PCB) in this folder serves a dual purpose as one side
 
 ### File Descriptions
 
- * `ChargerBottomv2.sch` EagleCAD schematic file, created using EagleCAD version 5.12
- * `ChargerBottomv2.brd` EagleCAD board layout file, created using EagleCAD version 5.12
+ * `ChargerBottomv2.sch` EagleCAD schematic file
+ * `ChargerBottomv2.brd` EagleCAD board layout file
  * `DFM Files` contains Gerber files for ordering stencils exported from the above design files. You would send these to your stencil cutting service if you plan to assemble these boards yourself. Note that the `.bsp` file is empty because there are no components on the underside of the board. Also note that some of the shapes were tweaked manually after exporting from EagleCAD.
+
+The `.sch` and `.brd` design files were created with EagleCAD version 5.12. EagleCAD is available for free at http://www.cadsoftusa.com/download-eagle/freeware/?language=en. The Gerber files were edited with the [ViewMate Deluxe](http://www.pentalogix.com/viewmate.php) software from Pentalogix, but there are many alternative viewers and editors for the Gerber file format(s) available.
