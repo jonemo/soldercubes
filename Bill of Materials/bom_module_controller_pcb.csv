@@ -1,0 +1,28 @@
+,Description,Comments,Qty,Value,Parts,Manufacturer,Man Part No,Vendor
+1,Resistor,,1,1M,R1,Rohm,MCR01MRTJ105,Digikey
+2,Resistor,,4,1k,"R3, R4, R8, R9",Rohm,MCR01MRTJ102,Digikey
+3,Resistor,,3,10k,"R2, R10, R11",Rohm,MCR01MRTJ103,Digikey
+4,Resistor,,2,47,"R6, R7",Stackpole,RMCF0402FT47R0,Digikey
+5,Resistor,,1,200k,R5,Rohm,MCR01MRTF2003,Digikey
+6,Resistor Array,,1,10k,RA1,Vishay,CRA04S08310K0JTD,Digikey
+7,Capacitor,,1,1.5uF,C1,AVX,TPSA155K025R3000,Digikey
+8,Capacitor,,2,2.2uF,"C3, C5",AVX,TPSA225K035R1500,Digikey
+9,Capacitor,,2,4.7uF,"C7, CA4",Murata,GRM155R60J475ME87D,Digikey
+10,Capacitor,,1,10uF Al,CA2,Vishay,298D106X0004K2T,Digikey
+11,Capacitor,,2,100nF,"C6, CA1",Murata,GRM155R61C104KA88D,Digikey
+12,Capacitor,,1,220nF,CA3,Murata,GRM155R60J224KE01D,Digikey
+13,Quad bus buffer,end of life,1,,U3,NXP,"N74F126D,623",Digikey
+14,I2C Voltage Level Translator,,1,,U2,TI,PCA9306DCUR,Digikey
+15,Indicator LED Green,,1,,GREEN,Panasonic,LNJ347W83RA,Digikey
+16,Indicator LED Orange,,1,,ORGNE,Panasonic,LNJ847W86RA,Digikey
+17,Atmega1284 Controller,,1,,U1,Atmel,ATMEGA1284-AUR,Digikey
+18,Holder for 500mA fuse,,1,,FUSE,Littlefuse,0157.500DR,Digikey
+19,Power Regulator,,1,3.3V,VR3.3,Linear Technology,LT1761MPS5-3.3#TRMPBF,Digikey
+20,Power Regulator,,1,5.0V,VR5.0,Micrel,MIC5219-5.0YM5 TR,Digikey
+21,Resonator,,1,,RES,Murata,CSTCE16M0V53-R0,Digikey
+22,FFC Connector,,5,,"FFC1, FFC2, FFC3, FFC4, FFC5",TE Connectivity,1-84981-0,Digikey
+23,FFC Connector Programming,,1,,PROG,FCI,HFW6R-2STE1LF,Digikey
+24,N-FET for Sensors,,1,,SENSFET,Vishay,2N7002K-T1-E3,Digikey
+25,Accelerometer & Compass,end of life,1,,U4,STMicroelectronics,LSM303DLHC,Digikey
+26,Printed Circuit Board,,1,,,,,Sunstone/OSHPark
+27,Atmega ,Alternative,,,,Atmel,ATMEGA1284P-AUR,Digikey

@@ -1,0 +1,19 @@
+,Description,Comments,Qty,Value,Parts,Manufacturer,Man Part No,Vendor
+1,Resistor,RESISTOR-0402,1,0.43 Ohm,R4,Panasonic,ERJ-2BQFR43X,Digikey
+2,Resistor,RESISTOR-0402,1,1kOhm,R10,Rohm,MCR01MRTJ102,Digikey
+3,Resistor,RESISTOR-0402,2,2.4kOhm,"R1, R2",Stackpole,RMCF0402JT2K40,Digikey
+4,Resistor,RESISTOR-0402,3,20kOhm,"R7, R3, R6",Susumu,RR0510P-203-D,Digikey
+5,Resistor,RESISTOR-0402,2,7.5kOhm,"R8, R9",Susumu,RR0510P-752-D,Digikey
+6,Resistor,RESISTOR-0402,1,83kOhm,R5,TE Connectivity,2-1879216-1,Digikey
+7,Resistor Array,RESISTOR_ARRAY,1,100kOhm,RA1,Panasonic,EXB-28V104JX,Digikey
+8,Capacitor,CAPACITOR-1206,2,10uF,"C1, C2",Taiyo Yuden,TMK316F106ZL-T,Digikey
+9,Capacitor,CAPACITOR-0402,3,0.1uF,"C5, C7, C8",Murata,GRM155R61C104KA88D,Digikey
+10,Capacitor,CAPACITOR-0805,1,4.7uF,C4,TDK Corporation,C2012X5R1C475K125AC,Digikey
+11,Inductor,INDUCTOR1210,1,22uH,L1,Taiyo Yuden,CBC3225T220MR,Digikey
+12,Battery Charging IC,BQ24105-RHLR,1,,U$1,TI,BQ24105RHLR,Digikey
+13,Switching Diode,DIODE-1206,1,,D1,AVX,SD0805S020S1R0,Digikey
+14,Small inidicator LED,LED,1,,BLUE,Vishay,VLMB1500-GS08,Digikey
+15,Small inidicator LED,LED,1,,PINK,Rohm,SMLP12HBC7W1,Digikey
+16,Voltage Comparator,TI-LM211,1,,U$2,TI,LM211DR,Digikey
+17,Battery Connector Spring,,3,,,Keystone,211,Digikey
+18,Printed Circuit Board,,1,,,,,Sunstone/OSHPark

@@ -1,0 +1,6 @@
+,Description,Comments,Qty,Value,Parts,Manufacturer,Man Part No,Vendor
+1,Proximity Sensor,OSRAM-SFH7741,1,,U$1,Osram,SFH 7741-Z,Digikey
+2,Capacitor,CAPACITOR-0402,1,1.0uF,C1,Murata,GRM155R60J105ME19D,Digikey
+3,Resistor,RESISTOR-0402,1,2kOhm,R2,Stackpole,RMCF0402FT2K00,Digikey
+4,Resistor,RESISTOR-0402,1,10kOhm,R1,Rohm,MCR01MRTJ103,Digikey
+5,Printed Circuit Board,,1,,,,,Sunstone/OSHPark

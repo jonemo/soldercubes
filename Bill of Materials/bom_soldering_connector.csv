@@ -1,0 +1,6 @@
+,Description,Comments,Qty,Value,Parts,Manufacturer,Man Part No,Vendor
+1,High Power Resistor,,8,"10ohm, 1W",,Stackpole,RMCF2512JT10R0,Digikey
+2,N-Fet Heater Switch,,1,,,Fairchild,FDME410NZT,Digikey
+3,Fields Metal,,1,,,Rotometals,LowMeltingPoint144,Rotometals
+4,FFC,,1,,,Wavelink,100-010-0020-AC,Wavelink
+5,Printed Circuit Board,,1,,,,,Sunstone/OSHPark
